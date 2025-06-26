@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lyric\\source\\repos\\lyric_cpplessons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00FB30F9-028F-450F-9F24-FDCF676C3639}|helloworld\\helloworld.vcxproj|C:\\Users\\lyric\\source\\repos\\lyric_cpplessons\\helloworld\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00FB30F9-028F-450F-9F24-FDCF676C3639}|helloworld\\helloworld.vcxproj|solutionrelative:helloworld\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "helloworld.cpp",
+              "DocumentMoniker": "C:\\Users\\lyric\\source\\repos\\lyric_cpplessons\\helloworld\\helloworld.cpp",
+              "RelativeDocumentMoniker": "helloworld\\helloworld.cpp",
+              "ToolTip": "C:\\Users\\lyric\\source\\repos\\lyric_cpplessons\\helloworld\\helloworld.cpp",
+              "RelativeToolTip": "helloworld\\helloworld.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T14:08:36.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
